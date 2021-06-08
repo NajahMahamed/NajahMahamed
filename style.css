@@ -1,0 +1,29 @@
+h1 {
+    color: rgb(226, 214, 43);
+    font-size: 40px; 
+    margin: 0px;
+    background-color: rgba(0, 183, 255, 0.897);
+    text-align: center;
+  }
+ p {
+   color: rgb(34, 158, 117);
+   font-size: 20px;
+  
+
+ }
+ ol {
+  color: rgb(34, 158, 117);
+  font-size: 20px;
+
+ }
+  li {
+    color: rgb(34, 158, 117);
+    font-size: 20px;
+
+  }
+
+  input {
+      display: block;
+      margin-bottom: 20px;
+      color: aqua;
+  }
