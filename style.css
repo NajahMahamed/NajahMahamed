@@ -18,6 +18,7 @@ h2 {
    color: rgb(190, 117, 172);
    font-size: 20px;
    font-family: 'Stint Ultra Condensed', cursive;
+   
   
 
  }
@@ -25,12 +26,14 @@ h2 {
   color: rgb(190, 117, 172);
   font-size: 20px;
   font-family: 'Stint Ultra Condensed', cursive;
+  text-align: center;
   
  }
   li {
     color: rgb(190, 117, 172);
     font-size: 20px;
     font-family: 'Stint Ultra Condensed', cursive;
+    text-align: center;
 
   }
 
