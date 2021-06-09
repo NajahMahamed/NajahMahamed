@@ -24,7 +24,6 @@ h2 {
     font-size: 20px;
     font-family: 'Stint Ultra Condensed', cursive; 
   
-
  }
  ol {
   color: rgb(190, 117, 172);
@@ -46,5 +45,6 @@ h2 {
   input {
       display: block;
       margin-bottom: 40px;
+      font-size: medium;
       
   }
