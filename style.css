@@ -1,32 +1,32 @@
 h1 {
-    color: rgb(158, 92, 121);
+    color: rgb(231, 175, 199);
     font-size: 40px; 
     margin: 0px;
-    background-color: rgba(173, 76, 128, 0.897);
+    background-color: rgba(170, 143, 157, 0.897);
     text-align: center;
     font-family: 'Staatliches', cursive; 
   }
  p {
-   color: rgb(212, 149, 196);
+   color: rgb(190, 117, 172);
    font-size: 20px;
    font-family: 'Stint Ultra Condensed', cursive;
   
 
  }
  ol {
-  color: rgb(212, 149, 196);
+  color: rgb(190, 117, 172);
   font-size: 20px;
   font-family: 'Stint Ultra Condensed', cursive;
   
  }
   li {
-    color: rgb(212, 149, 196);
+    color: rgb(190, 117, 172);
     font-size: 20px;
     font-family: 'Stint Ultra Condensed', cursive;
 
   }
 
-  body {background-color: rgb(207, 154, 138);} 
+  body {background-color: rgb(214, 178, 168);} 
 
   input {
       display: block;
