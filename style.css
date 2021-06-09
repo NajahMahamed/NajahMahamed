@@ -1,9 +1,17 @@
-h1 {
+h1 { 
     color: rgb(235, 106, 162);
     font-size: 40px; 
     margin: 0px;
     background-color: rgba(243, 184, 215, 0.897);
     text-align: center;
+    font-family: 'Staatliches', cursive; 
+}
+h2 {
+    color: rgb(235, 106, 162);
+    font-size: 30px; 
+    margin: 0px;
+    background-color: rgba(243, 184, 215, 0.897);
+    text-align:left;
     font-family: 'Staatliches', cursive; 
   }
  p {
