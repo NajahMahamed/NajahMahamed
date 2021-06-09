@@ -1,26 +1,26 @@
 h1 {
-    color: rgb(179, 89, 144);
+    color: rgb(158, 92, 121);
     font-size: 40px; 
     margin: 0px;
-    background-color: rgba(221, 29, 221, 0.897);
+    background-color: rgba(173, 76, 128, 0.897);
     text-align: center;
     font-family: 'Staatliches', cursive; 
   }
  p {
-   color: rgb(217, 211, 219);
+   color: rgb(212, 149, 196);
    font-size: 20px;
    font-family: 'Stint Ultra Condensed', cursive;
   
 
  }
  ol {
-  color: rgb(217, 211, 219);
+  color: rgb(212, 149, 196);
   font-size: 20px;
   font-family: 'Stint Ultra Condensed', cursive;
   
  }
   li {
-    color: rgb(217, 211, 219);
+    color: rgb(212, 149, 196);
     font-size: 20px;
     font-family: 'Stint Ultra Condensed', cursive;
 
