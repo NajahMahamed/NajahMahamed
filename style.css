@@ -39,14 +39,8 @@ h2 {
     margin-left: left 20%;
 
   }
-  
-  .box {
-  width: auto;
-  height:auto;
- background-image: linear-gradient( red, blue, white);
-
- }
-     
+  body {
+    background-color: lightblue;
   }
      
   input {
