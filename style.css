@@ -1,39 +1,39 @@
 h1 { 
-    color: rgb(235, 106, 162);
+    color:rgb(14, 13, 14);
     font-size: 50px; 
     margin: 0px;
-    background-color: rgba(243, 184, 215, 0.897);
+    background-color: rgba(247, 247, 247, 0.897);
     text-align: center;
     font-family: 'Staatliches', cursive; 
 }
 h2 {
-    color: rgb(235, 106, 162);
+    color: rgb(14, 13, 14);
     font-size: 40px; 
     margin: 40px;
-    background-color: rgba(243, 184, 215, 0.897);
+    background-color: rgba(247, 247, 247, 0.897);
     text-align:left;
     font-family: 'Staatliches', cursive; 
   }
  p {
-   color: rgb(190, 117, 172);
+   color: rgb(14, 13, 14);
    font-size: 30px;
    font-family: 'Stint Ultra Condensed', cursive;
  }
    p1 {
-    color: rgb(190, 117, 172);
+    color: rgb(14, 13, 14);
     font-size: 20px;
     font-family: 'Stint Ultra Condensed', cursive; 
   
  }
  ol {
-  color: rgb(190, 117, 172);
+  color: rgb(14, 13, 14);
   font-size: 30px;
   font-family: 'Stint Ultra Condensed', cursive;
   margin: left 20%; 
   
  }
   li {
-    color: rgb(190, 117, 172);
+    color:rgb(14, 13, 14);
     font-size: 30px;
     font-family: 'Stint Ultra Condensed', cursive;
     margin-left: left 20%;
