@@ -29,19 +29,22 @@ h2 {
   color: rgb(190, 117, 172);
   font-size: 30px;
   font-family: 'Stint Ultra Condensed', cursive;
-  margin-left:x%; 
+  margin: left 20%; 
   
  }
   li {
     color: rgb(190, 117, 172);
     font-size: 30px;
     font-family: 'Stint Ultra Condensed', cursive;
-    margin-left: center;
+    margin-left: left 20%;
 
   }
   
-  body {background-color: rgba(88, 52, 207, 0.966);} 
-
+  body {
+      
+      background-image:linear-gradient (260deg, #2376ae 0%, #c16ecf 100%);
+  }
+     
   input {
       display: block;
       margin-bottom: 40px;
