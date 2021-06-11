@@ -67,10 +67,10 @@ h2 {
   .Silence {  
     position: absolute;
     left:80%;
-    top: 50px;
+    nav-up: 30px;
   }
 
  .Liverpool {  
   position: absolute;
   left:80%;
-  up: 90%;
+  top: 10px; 
