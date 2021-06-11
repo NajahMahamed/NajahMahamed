@@ -58,7 +58,7 @@ h2 {
   .logo {  
   position: absolute;
   left:80%;
-  : 90%;
+  nav-up:20%;
 
   }
   @keyframes logo {
@@ -67,10 +67,10 @@ h2 {
   .Silence {  
     position: absolute;
     left:80%;
-    nav-up: 40%;
+    nav-up: 50%;
   }
 
  .Liverpool {  
   position: absolute;
   left:80%;
-  nav-up: 10%;  
+  nav-up: 40%;  
