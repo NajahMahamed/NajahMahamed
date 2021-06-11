@@ -19,6 +19,7 @@ h2 {
    font-size: 30px;
    font-family: 'Playfair Display', serif;
    margin-right: 50%;
+   
  }
    p1 {
     color: rgb(14, 13, 14);
@@ -61,21 +62,7 @@ h2 {
   top: 1200px;
 
   }
-  @keyframes logo {
 
-    0%{
-        background-color: rgb(105, 19, 186);
-        box-shadow: 6px 6px 0 darkgrey;
-    }
-    50%{ 
-        background-color: rgb(230, 69, 41);
-        box-shadow: 6px 6px 0 darkslategray;
-    }
-    100% {
-        background-color: rgb(63, 76, 174);
-        box-shadow: 6px 6px 0 black;
-  }
-}
   .Silence {  
     position: absolute;
     left:60%;
@@ -85,4 +72,5 @@ h2 {
  .Liverpool {  
   position: absolute;
   left:60%;
-  top: 200px;  
+  top: 200px;
+ }
