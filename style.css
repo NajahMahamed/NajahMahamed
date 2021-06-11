@@ -57,20 +57,32 @@ h2 {
 
   .logo {  
   position: absolute;
-  left:80%;
-  nav-up:20%;
+  left:60%;
+  top: 1200px;
 
   }
   @keyframes logo {
-      
+
+    0%{
+        background-color: blueviolet;
+        box-shadow: 6px 6px 0 darkgrey;
+    }
+    50%{ 
+        background-color: aqua;
+        box-shadow: 6px 6px 0 darkslategray;
+    }
+    100% {
+        background-color: whitesmoke;
+        box-shadow: 6px 6px 0 black;
   }
+}
   .Silence {  
     position: absolute;
-    left:80%;
-    nav-up: 50%;
+    left:60%;
+    top: 700px;
   }
 
  .Liverpool {  
   position: absolute;
-  left:80%;
-  nav-up: 40%;  
+  left:60%;
+  top: 200px;  
