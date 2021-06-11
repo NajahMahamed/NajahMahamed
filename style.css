@@ -3,8 +3,8 @@ h1 {
     font-size: 50px; 
     margin: 0px;
     background-color: rgba(247, 247, 247, 0.897);
-    text-align: center;
-    font-family: 'Staatliches', cursive; 
+    text-align: center; 
+    font-family: 'Playfair Display', serif;
 }
 h2 {
     color: rgb(14, 13, 14);
@@ -12,30 +12,30 @@ h2 {
     margin: 40px;
     background-color: rgba(247, 247, 247, 0.897);
     text-align:left;
-    font-family: 'Staatliches', cursive; 
+    font-family: 'Playfair Display', serif;
   }
  p {
    color: rgb(14, 13, 14);
    font-size: 30px;
-   font-family: 'Stint Ultra Condensed', cursive;
+   font-family: 'Playfair Display', serif;
  }
    p1 {
     color: rgb(14, 13, 14);
-    font-size: 20px;
-    font-family: 'Stint Ultra Condensed', cursive; 
+    font-size: 20px; 
+    font-family: 'Playfair Display', serif;
   
  }
  ol {
   color: rgb(14, 13, 14);
   font-size: 30px;
-  font-family: 'Stint Ultra Condensed', cursive;
+  font-family: 'Playfair Display', serif;
   margin: left 20%; 
   
  }
   li {
     color:rgb(14, 13, 14);
     font-size: 30px;
-    font-family: 'Stint Ultra Condensed', cursive;
+    font-family: 'Playfair Display', serif;
     margin-left: left 20%;
 
   }
